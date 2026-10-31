@@ -45,8 +45,6 @@ Donnez la position d'origine du cube (x, y) : 5,5
 Quelle direction voulez-vous insérer? ('haut', 'bas', 'gauche', 'droite') : haut
 ```
 
-<!-- IMAGE (optionnelle) : capture du terminal pendant une partie en mode autonome (python3 main.py mon_idul -a 1) -->
-
 ## Stratégie de l'IA
 
 À chaque tour, l'IA :
@@ -84,4 +82,4 @@ Quelle direction voulez-vous insérer? ('haut', 'bas', 'gauche', 'droite') : hau
 
 ## Code source
 
-Le code source est hébergé dans un dépôt privé (projet universitaire, Université Laval). Il est disponible sur demande.
+Le code source est hébergé dans un dépôt privé (projet universitaire, Université Laval).
